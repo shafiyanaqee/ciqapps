@@ -11,6 +11,6 @@ public class RemoveDuplicatesArray {
         Integer[] arr = {1, 2, 3, 2, 4, 5, 1, 6};
         Integer[] uniqueArr = removeDuplicates(arr);
 
-        System.out.println("Array without duplicates: " + Arrays.toString(uniqueArr));
+        System.out.println("Array without duplicates are: " + Arrays.toString(uniqueArr));
     }
 }
