@@ -1,0 +1,9 @@
+/.metadata/
+
+
+# Ignore all .class files
+*.class
+
+# Optionally ignore compiled Java output folders
+bin/
+target/
